@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashikmuezza&label=Profile%20views&color=0e75b6&style=flat" alt="ashikmuezza" /> </p>
 
-- 🔭 I’m currently werkstudent at [Bitscrunch](https://bitscrunch.com/)
+- 🔭 I’m currently **werkstudent** at [Bitscrunch](https://bitscrunch.com/)
+
+- 🎓 I'm currently pursuing  Master's in **Datascience at** [Uni-koblenz](https://www.uni-koblenz.de/de)
 
 - 🌱 I’m currently learning **ClickHouse, React UI kit & Tesorflow**
 
