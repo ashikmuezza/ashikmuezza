@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently werkstudent at [Bitscrunch](https://bitscrunch.com/)
 
-- 🌱 I’m currently learning **ClickHouse, Typescript, React UI kit & Tesorflow**
+- 🌱 I’m currently learning **ClickHouse, React UI kit & Tesorflow**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashikmuezza?tab=repositories](https://github.com/ashikmuezza?tab=repositories)
 
@@ -29,7 +29,7 @@
   
 - <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://testdriven.io/static/images/tools/fastapi.svg" alt="fastapi" width="80" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="45"/> </a>
   
-- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a><a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/> </a> <a href="https://gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://gitlab.com/uploads/-/system/project/avatar/278964/project_avatar.png?width=64" alt="gitlab" width="40" height="40"/> </a> 
+- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a><a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/> </a> <a href="https://gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://gitlab.com/uploads/-/system/project/avatar/278964/project_avatar.png?width=64" alt="gitlab" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
   	
 </p>
 
