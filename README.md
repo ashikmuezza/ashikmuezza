@@ -34,5 +34,7 @@
 </p>
 
 ## Activity
-<p float="left"><img align="left" width="450"  src="https://github-readme-stats.vercel.app/api?username=ashikmuezza&show_icons=true&locale=en" alt="ashikmuezza" />&nbsp;
-<img align="right" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=ashikmuezza&" alt="ashikmuezza" /></p>
+<p>
+<img align="left" width="300"  src="https://github-readme-stats.vercel.app/api?username=ashikmuezza&show_icons=true&locale=en" alt="ashikmuezza" />&nbsp;
+<img align="right" width="300"  src="https://github-readme-streak-stats.herokuapp.com/?user=ashikmuezza&" alt="ashikmuezza" />
+</p>
