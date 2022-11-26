@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **ClickHouse, React UI kit & Tesorflow**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ashikmuezza?tab=repositories](https://github.com/ashikmuezza?tab=repositories)
-
 - 📫 How to reach me **ashikrahumanabr@gmail.com**
 
 - Connect with me on <p align="left">
