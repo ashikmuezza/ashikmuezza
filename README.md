@@ -1,4 +1,3 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQEfyelmXXZ7FQ/profile-displaybackgroundimage-shrink_350_1400/0/1639151630928?e=1674691200&v=beta&t=XG2VpjBgSVn0JofUC6DlaZMjcQsZudj2IU9mkH4kBT0)
 <h1 align="center">Hi 👋, I'm Ashik</h1>
 <h3 align="center">Full stack developer | Aspiring Data scientist</h3>
 
@@ -20,9 +19,11 @@
 <a href="https://linkedin.com/in/ashikrahumanabr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashikrahumanabr" height="30" width="40" /></a>
 </p>
 
+<div>
+ 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-
+ 
  - <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   
 - <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="[https://nodejs.org](https://clickhouse.com/)" target="_blank" rel="noreferrer"> <img src="https://global-uploads.webflow.com/604a2f667b2fcefbc095bfc8/6253d9ae3eecda358e6d938b_clickhouse.png" alt="clickhouse" width="120" height="40"/> </a>  
@@ -35,6 +36,5 @@
 </p>
 
 <h3 align="left">Activity:</h3>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashikmuezza&show_icons=true&locale=en" alt="ashikmuezza" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashikmuezza&" alt="ashikmuezza" /></p>
+<p float="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashikmuezza&show_icons=true&locale=en" alt="ashikmuezza" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashikmuezza&" alt="ashikmuezza" /></p>
