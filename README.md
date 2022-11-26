@@ -35,5 +35,5 @@
 </p>
 
 <h3 align="left">Activity:</h3>
-<p float="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ashikmuezza&show_icons=true&locale=en" alt="ashikmuezza" />&nbsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashikmuezza&" alt="ashikmuezza" /></p>
+<p float="left"><img align="center" width="450"  src="https://github-readme-stats.vercel.app/api?username=ashikmuezza&show_icons=true&locale=en" alt="ashikmuezza" />&nbsp;
+<img align="center" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=ashikmuezza&" alt="ashikmuezza" /></p>
