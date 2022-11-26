@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashik</h1>
 <h3 align="center">Full stack developer | Aspiring Data scientist</h3>
 
-
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashikmuezza&label=Profile%20views&color=0e75b6&style=flat" alt="ashikmuezza" /> </p>
@@ -36,5 +35,5 @@
 </p>
 
 <h3 align="left">Activity:</h3>
-<p float="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashikmuezza&show_icons=true&locale=en" alt="ashikmuezza" />
+<p float="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ashikmuezza&show_icons=true&locale=en" alt="ashikmuezza" />&nbsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashikmuezza&" alt="ashikmuezza" /></p>
