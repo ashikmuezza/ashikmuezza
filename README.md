@@ -9,7 +9,7 @@
 
 - 🎓 I'm currently pursuing  Master's in **Datascience at** [Uni-koblenz](https://www.uni-koblenz.de/de)
 
-- 🌱 I’m currently learning **ClickHouse, React UI kit & Tesorflow**
+- 🌱 I’m currently learning **ClickHouse, React UI kit & Tensorflow**
 
 - 📫 How to reach me **ashikrahumanabr@gmail.com**
 
